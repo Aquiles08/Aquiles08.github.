@@ -49,18 +49,3 @@ h4{
     text-align: center;
     font-weight: lighter;
 }
-
-h5{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: center;
-    font-size: 25px;
-}
-.lkdlk {display:table;width:auto;margin:0 auto;}
-    .lkdlk li {margin:0 10px;display:inline-block;width:auto;height:24px;transition:0.2s all linear;opacity:0.5}
-    .lkdlk li:hover {opacity:1}
-        .lkdlk .icon {display:block;float:left;width:24px;height:24px;background:url(../img/iconos.png) no-repeat}
-            .like .icon {background-position:0 0}
-            .dislike .icon {background-position:-24px 0}
-           
-            .lkdlk .count {position: relative;background: #909090;border-radius:5px;margin-left:10px;line-height:18px;padding:0 10px;font-size:10px;height:18px;display:inline-block;color:#FFF}
-            .lkdlk .count:after {content: '';position: absolute;left: 0;top: 50%;width: 0;height: 0;border: 4px solid transparent;border-right-color: #909090;border-left: 0;margin-top: -4px;margin-left: -4px;}
